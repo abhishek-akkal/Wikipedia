@@ -4,28 +4,28 @@ A simple Wikipedia-style webpage built using **pure HTML**.
 It displays HTML escape sequences in a structured table format.
 
 🔗 Live Demo:
-https://abhishek-akkal.github.io/Wikipedia/
+https://abhishek-akkal.github.io/wiki-clone-html/
 
 ---
 
 ## 🚀 Features
 
-* Built using only HTML (no CSS or JavaScript)
-* Table showing:
+- Built using only HTML (no CSS or JavaScript)
+- Table showing:
+  - Named entities
+  - Decimal & Hex values
+  - Output/result
 
-  * Named entities
-  * Decimal & Hex values
-  * Output/result
-* Uses proper table structure (`table`, `tr`, `th`, `td`)
-* Uses `colspan` to create a caption-like header
+- Uses proper table structure (`table`, `tr`, `th`, `td`)
+- Uses `colspan` to create a caption-like header
 
 ---
 
 ## 🧠 What I Learned
 
-* HTML tables (rows & columns)
-* HTML entities like `&amp;`, `&lt;`, `&#x22;`
-* How browsers render special characters
+- HTML tables (rows & columns)
+- HTML entities like `&amp;`, `&lt;`, `&#x22;`
+- How browsers render special characters
 
 ---
 
